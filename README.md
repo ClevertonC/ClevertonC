@@ -1,9 +1,9 @@
-### Olá, Me chamo ClevertonC👋
+### Hey Everyone👋
 
 
 
 
-- 🔭 Estou trabalhando com Front-End 
+- 🔭 Estou estudando Front-End e Back-End
 - 📫 Contate-me no email:cdacostaalves9@gmail.com 
 
 <div>
