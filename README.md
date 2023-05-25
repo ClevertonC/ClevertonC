@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Estou estudando Front-End e Back-End
+- 🔭 Estou estudando Front-End
 - 📫 Contate-me no email:cdacostaalves9@gmail.com 
 
 <div>
