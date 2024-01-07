@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Sou Freelancer FullStack Developer
+- 🔭 FullStack Developer
 - 📫 Contate-me no email:cdacostaalves9@gmail.com 
 
 <div>
