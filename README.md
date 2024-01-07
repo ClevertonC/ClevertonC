@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Estou estudando Front-End
+- 🔭 Sou Freelancer FullStack Developer
 - 📫 Contate-me no email:cdacostaalves9@gmail.com 
 
 <div>
