@@ -3,7 +3,7 @@
 
 
 
-- 🔭 FullStack Developer
+- 🔭 Backend Developer
 - 📫 Contate-me no email:cdacostaalves9@gmail.com 
 
 <div>
